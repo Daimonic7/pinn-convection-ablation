@@ -1,0 +1,16 @@
+15 runs to do (88 already in runs.csv); 2 workers; commit 4390d09+dirty
+[1/15] C1W0H0 beta=30.0 seed=0 rel_l2=8.199e-01 evals=11296 172s | elapsed 2.9 min, ETA 41 min
+[2/15] C1W0H0 beta=40.0 seed=0 rel_l2=9.461e-01 evals=11996 181s | elapsed 3.1 min, ETA 20 min
+[3/15] C1W0H0 beta=20.0 seed=0 rel_l2=6.407e-01 evals=7760 111s | elapsed 4.8 min, ETA 19 min
+[4/15] C1W0H0 beta=40.0 seed=1 rel_l2=7.769e-01 evals=7244 107s | elapsed 4.8 min, ETA 13 min
+[5/15] C1W0H0 beta=20.0 seed=1 rel_l2=3.243e-02 evals=3430 50s | elapsed 5.7 min, ETA 11 min
+[6/15] C1W0H0 beta=30.0 seed=1 rel_l2=6.289e-01 evals=6617 95s | elapsed 6.3 min, ETA 10 min
+[7/15] C1W0H0 beta=40.0 seed=2 rel_l2=7.395e-01 evals=14264 219s | elapsed 9.3 min, ETA 11 min
+[8/15] C1W0H0 beta=30.0 seed=2 rel_l2=5.912e-01 evals=13216 206s | elapsed 9.8 min, ETA 9 min
+[9/15] C1W0H0 beta=20.0 seed=2 rel_l2=7.107e-02 evals=8443 129s | elapsed 11.5 min, ETA 8 min
+[10/15] C1W0H0 beta=40.0 seed=3 rel_l2=6.589e-01 evals=7932 123s | elapsed 11.8 min, ETA 6 min
+[11/15] C1W0H0 beta=20.0 seed=3 rel_l2=3.039e-02 evals=3558 54s | elapsed 12.7 min, ETA 5 min
+[12/15] C1W0H0 beta=30.0 seed=3 rel_l2=4.969e-02 evals=5840 90s | elapsed 13.0 min, ETA 3 min
+[13/15] C1W0H0 beta=30.0 seed=4 rel_l2=3.992e-02 evals=9391 382s | elapsed 19.3 min, ETA 3 min
+[14/15] C1W0H0 beta=40.0 seed=4 rel_l2=6.396e-02 evals=14695 467s | elapsed 20.5 min, ETA 1 min
+[15/15] C1W0H0 beta=20.0 seed=4 rel_l2=4.956e-02 evals=5517 88s | elapsed 20.8 min, ETA 0 min

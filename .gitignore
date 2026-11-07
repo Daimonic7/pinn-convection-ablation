@@ -1,0 +1,6 @@
+venv/
+LEARNING.md
+REPORT_OUTLINE.md
+results/progress/
+__pycache__/
+.claude/settings.local.json

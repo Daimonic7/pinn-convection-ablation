@@ -1,0 +1,21 @@
+=== lr=0.1 18:00:48 ===
+5 runs to do (416 already in runs.csv); planned 5; 5 workers; commit 4390d09+dirty
+[1/5] C1W0H0 beta=30.0 seed=0 rel_l2=8.020e-01 evals=9611 122s | elapsed 2.1 min, ETA 8 min
+[2/5] C1W0H0 beta=30.0 seed=1 rel_l2=6.167e-01 evals=11935 195s | elapsed 3.3 min, ETA 5 min
+[3/5] C1W0H0 beta=30.0 seed=2 rel_l2=8.162e-01 evals=12117 197s | elapsed 3.4 min, ETA 2 min
+[4/5] C1W0H0 beta=30.0 seed=3 rel_l2=6.696e-01 evals=17237 253s | elapsed 4.3 min, ETA 1 min
+[5/5] C1W0H0 beta=30.0 seed=4 rel_l2=7.098e-02 evals=20896 297s | elapsed 5.1 min, ETA 0 min
+=== lr=0.5 18:06:01 ===
+5 runs to do (479 already in runs.csv); planned 5; 5 workers; commit 4390d09+dirty
+[1/5] C1W0H0 beta=30.0 seed=0 rel_l2=7.832e-01 evals=6966 132s | elapsed 2.3 min, ETA 9 min
+[2/5] C1W0H0 beta=30.0 seed=3 rel_l2=2.329e-02 evals=8985 149s | elapsed 2.6 min, ETA 4 min
+[3/5] C1W0H0 beta=30.0 seed=1 rel_l2=6.124e-01 evals=9094 173s | elapsed 3.0 min, ETA 2 min
+[4/5] C1W0H0 beta=30.0 seed=4 rel_l2=5.674e-02 evals=12869 203s | elapsed 3.5 min, ETA 1 min
+[5/5] C1W0H0 beta=30.0 seed=2 rel_l2=6.209e-01 evals=15940 245s | elapsed 4.2 min, ETA 0 min
+=== lr=2.0 18:10:17 ===
+5 runs to do (523 already in runs.csv); planned 5; 5 workers; commit 4390d09+dirty
+[1/5] C1W0H0 beta=30.0 seed=0 rel_l2=7.970e-01 evals=3666 56s | elapsed 1.0 min, ETA 4 min
+[2/5] C1W0H0 beta=30.0 seed=2 rel_l2=8.259e-01 evals=5953 87s | elapsed 1.6 min, ETA 2 min
+[3/5] C1W0H0 beta=30.0 seed=1 rel_l2=8.221e-01 evals=5058 96s | elapsed 1.7 min, ETA 1 min
+[4/5] C1W0H0 beta=30.0 seed=3 rel_l2=5.920e-01 evals=8626 143s | elapsed 2.5 min, ETA 1 min
+[5/5] C1W0H0 beta=30.0 seed=4 rel_l2=3.663e-02 evals=13649 187s | elapsed 3.2 min, ETA 0 min

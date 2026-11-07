@@ -1,0 +1,8 @@
+# Top-level packages used for the results (see requirements-lock.txt for the full freeze).
+# torch: on Windows-on-ARM install from https://download.pytorch.org/whl/cpu first.
+torch==2.15.0
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+torch-optimizer==0.3.0  # imported by the authors' choose_optimizer.py
+jupyter==1.1.1
